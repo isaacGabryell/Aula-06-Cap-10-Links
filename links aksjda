@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Documento</title>
+</head>
+<body>
+    <heade>
+        <h1>O que é MVC?</h1>
+    </heade>
+    <P>
+    MVC (Model-View-Controller) é um padrão de arquitetura de software que divide uma aplicação em três componentes interconectados para organizar o código e separar as responsabilidades: o Modelo, que lida com os dados e a lógica de negócio; a Visão, que é a interface do utilizador; e o Controlador, que atua como um intermediário entre o Modelo e a Visão, processando as interações do usuário e atualizando a interface.  <br></br>
+    </P>
+    <h2>Componentes do MVC </h2> 
+    <P>
+     Os três componentes principais da arquitetura MVC (Modelo-Visão-Controlador) são o Modelo, a Visão e o Controlador. O Modelo lida com os dados e a lógica de negócios da aplicação; a Visão é responsável pela apresentação dos dados ao usuário; e o Controlador atua como intermediário, processando as entradas do usuário e orquestrando a interação entre o Modelo e a Visão.<br></br>
+    </P> 
+    <h3>Como funciona </h3>
+    <p>O padrão MVC (Model-View-Controller) funciona dividindo uma aplicação em três camadas com responsabilidades distintas: o Model, que gerencia a lógica de dados; a View, que cuida da apresentação da interface do usuário; e o Controller, que atua como intermediário, recebendo requisições, interagindo com o Model e selecionando a View apropriada para responder ao usuário. Essa separação de responsabilidades torna a aplicação mais organizada, fácil de manter, testar e escalar. <br></br>
+    </p>
+    <p>Para saber mais sobre Model <a href="pag002.html" rel="next">segunda página</a> </p>
+    <p>Para saber mais sobre Controller e View<a href="noticias/pag003.html" rel="next">página de notícias</a></p>
+</body>
+
+  
